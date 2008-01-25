@@ -1,0 +1,10 @@
+comp.freq               Compare Model Probabilities to Frequencies
+is.tree                 Compare with Tree Format
+kidney                  Cytogenetic data from kidney carcinoma
+MLparameters            Compute Maximum Likelihood Parameters
+MLtopology              Compute Maximum Likelihood Tree Topology
+mrca                    Most Recent Common Ancestor
+subtree                 Subtree
+boot.conf.values	Bootstrap Confidence Values
+leafset.prob		Probability of a Set of Leaves
+leafset.prob2		Probability of a Set of Leaves
